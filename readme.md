@@ -26,7 +26,7 @@ I am looking forward to working with you.
 
     in your web browser http://localhost:8000/api/airplanes/
 
-<img src="https://github.com/trayanus1026/kami_airlines/howtouse.jpg">   
+![Local Image](howtouse.jpg)
 
 ## Test
 
